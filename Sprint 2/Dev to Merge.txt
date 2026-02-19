@@ -1,0 +1,17 @@
+How YOU (Team Lead) should run Sprint 2
+
+Create sprint/2 branch
+
+Give only ONE scoped prompt per dev
+
+Ensure:
+
+Dev 1 → ai-services only
+
+Dev 2 → backend ATS only
+
+Dev 3 → frontend ATS only
+
+Review PRs using Sprint 2 rules
+
+Merge → tag sprint-2-complete
